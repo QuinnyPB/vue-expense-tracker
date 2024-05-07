@@ -1,3 +1,10 @@
+NOTE:
+THIS IS NOT MY ORIGINAL PROJECT, BUT A PROJECT I CODED-ALONG TO
+ORIGINAL: https://www.youtube.com/watch?v=hNPwdOZ3qFU
+ORIGNAL AUTHOR: Traversy Media
+
+
+
 # vue-expense-tracker
 
 This template should help get you started developing with Vue 3 in Vite.
